@@ -21,7 +21,7 @@
     "assets/scripts/**/*.ts",
     "assets/scripts/**/*.d.ts",
     "assets/scripts/**/*.tsx",
-    "assets/scripts/child-theme-scripts.js",
+    "assets/scripts/child-theme-scripts.js"
   ],
   "exclude": []
 }
